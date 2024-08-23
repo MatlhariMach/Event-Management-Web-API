@@ -6,7 +6,7 @@ Built on  ASP.NET web api
 ## Screenshots
 
 ### Home
-![Home](Event-Management-Web-API/Screenshots/Screenshot 2024-08-23 120557.png)
+![Home](Event-Management-Web-API/Screenshots/Screenshot%202024-08-23%20120557.png)
 
 ### Home
-![Home](Event-Management-Web-API/Screenshots/Screenshot 2024-08-23 120617.png)
+![Home](Event-Management-Web-API/Screenshots/Screenshot%202024-08-23%20120617.png)
